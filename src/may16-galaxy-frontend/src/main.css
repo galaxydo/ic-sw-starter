@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 45ch;
+}
+
+.error {
+    color: red;
+    font-size: 3em;
+}
+
+#count {
+    display: inline-block;
+    margin: 0 1em;
+}
